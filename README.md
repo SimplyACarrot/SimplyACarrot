@@ -1,6 +1,6 @@
 ## Hi! I'm Max.
 
-Im a 15 year old developer for australia.
+Im a 15 year old developer from Australia.
 
 ### Interests:
 - Minecraft server development
