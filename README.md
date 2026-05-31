@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi! I'm Max.
 
-<!--
-**SimplyACarrot/SimplyACarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a 15 year old developer for australia.
 
-Here are some ideas to get you started:
+### Interests:
+- Minecraft server development
+- Python
+- Self-Hosting
+- Linux (Arch)
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- CarrotNetwork
+- HDStream (WIP)
+
+### Learning:
+- Next.js
+- High level python development
+- Linux infastructure
